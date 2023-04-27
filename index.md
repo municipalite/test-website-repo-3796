@@ -1,7 +1,7 @@
 ---
 title: Accueil
 ---
-# L'Échappée Belle
+# Municipalité
 
 **Municipalité** est une commune du **Département** en **Région**, en France.
 
